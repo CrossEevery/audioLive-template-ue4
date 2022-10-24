@@ -1,0 +1,1909 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "0BF262B059DF541FFD745BACBAFB7E7249A9051E",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "77CE4683B497D1FCF846C058B0E89CEC27E1912A",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "911CE4B2F19C37D28BF48C5E9F2496185F5538F4",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "CCCEED7BF009E3A1D89B3B77B5DD9D4D10CF3D62",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0F870002A7BD99BB992F9AE9FFC2310206906DA8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "818ED386597E3723A8AB154A87873DB9802D9859",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "328B7B5E58D86CAAA08D98DDCACA2EE9A3E68797",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8A8627C3850BFC999B1EB9BC0905065C005702B7",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C69911B61677F5F21245D626E9DBF8F73485EA81",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "A9E736E14CD1C73F56BDAABC00D83B688B49ABD5",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "15ECA4622B54D6DCE2D0D16A6E337B0840BD0DBC",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "F21CB3409D094C57EC24E6252528D66C26996F5E",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "107AB8DBDC824C74816FD718013F231C4C72E69A",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "E0D3EBF81C95CF1B1FA38A4B8F78CACF011E5E31",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MovieRenderQueue_MotionVectors"
+			]
+		},
+		{
+			"ShaderMapHash": "2AFB47EE600ECAECAE0BDD8B021C71D2AD0B587E",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MovieRenderQueue_WorldDepth"
+			]
+		},
+		{
+			"ShaderMapHash": "79286F7E5C916D68773C4399ABCB837D89FCDFED",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MoviePipeline_StencilCutout"
+			]
+		},
+		{
+			"ShaderMapHash": "DFB8307D8C8673B90DA770CF801BCD7C4F3B5B42",
+			"Assets": [
+				"/MovieRenderPipeline/Blueprints/M_MoviePipelineRenderPreview"
+			]
+		},
+		{
+			"ShaderMapHash": "561F29363532D412410E8DF0E0DAACAADD7DC7B8",
+			"Assets": [
+				"/PanoramicCapture/Materials/Roughness"
+			]
+		},
+		{
+			"ShaderMapHash": "C4DEEDBFC77DD12BF67203A6AE1426CE269F7670",
+			"Assets": [
+				"/PanoramicCapture/Materials/Metallic"
+			]
+		},
+		{
+			"ShaderMapHash": "67C20AE53CA12EE5943036625B895BBA8B4E73DC",
+			"Assets": [
+				"/PanoramicCapture/Materials/BaseColor"
+			]
+		},
+		{
+			"ShaderMapHash": "FFC95C469DCF493C0349D179C02DEBC108CDDC37",
+			"Assets": [
+				"/PanoramicCapture/Materials/AmbientOcclusion"
+			]
+		},
+		{
+			"ShaderMapHash": "CC145DBC2D55137EB98CE0E5BDE3D14C1E3C3F94",
+			"Assets": [
+				"/PanoramicCapture/Materials/WorldNormal"
+			]
+		},
+		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "843C77E1FEA0CC35F883BFC08CA284603BDC54C3",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "633BD3F84C9AB791685122839159834E16518035",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "57588E3433044C855C8D408CCDA489779A0F388F",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "1498363317B6D91513E2D769D5784B8D897F91B6",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "11E670356DC9B9A41D1D18FEB947BE9D23A4987F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4F3E03132E3425801B4B6BF9308AF60A990ED43F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2BCDF7DE783FCE1CA0F24B90A73F7223859C1694",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "558742CB22CECD22434A9A8519D4E3E346FED011",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6320A56CA4D65AEE979DD244250AA50126448D6D",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24BC7D9A1F5F44E82DD4B6254C7CC0D9837EAB42",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "29262EA861AF91F1A1839D27427C3BF8652BA106",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1B4D1A7A95EF7876613BAACABB50A67AD1D4C2B",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "16FF80EDBC812C9B5C2D696C1B26109E1D74F0EB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "E1B96C2E039F6E2346CF495741BC49C8ED8D61E9",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B1EB84DD0905E32D793E03FCC39A392796CCD2A8",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ABC88F0A6212FE666A6098B6FC39B9954CC55BE5",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3241D13296681528F94D2AD74EFF459055DFEC81",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6A7DAD0E9EB4BE1586B12E04CDD47B7DABF65DFF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "202EAA7089022899C5EBD171A6A219EEEF255369",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "0B6E71506BB8A2C651E88FBCB6C543C3FBD635FE",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "8B8285D4CB306A0B345AD9E9AF4F893960F67F9A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "1443A53887E10A2D82625B85A21D36E8B685ADB3",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "3834A67B535CBE5A52D3D04F108896E2A55F33BB",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "1A4C707AE1B76877CAD003D65A11F2503CC59C1E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "18C42CC2516FB0B084875EBAC9AD5DF1949D9412",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E2F960C3B1AF04CB672E1B777FA2B5AA1C6590FB",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8F1CAABB3C2CA8709D78769E6AF7F3B3BECA35BF",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C66DA72B4D300193A5149554529D5BD5D79EB854",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4EE2D51BDDF2148CB5C1C18B0CD3BDA504BE3549",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "81B9D781FFA95E479F1C8ED3244301253609B9C6",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D4D501F3054B75982BCED69395662EF021FFD114",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "5E9B2060D8537663CAD87FD2D3A1AF5560B6A320",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C6BF47CB64F752FCE9305259E653EACD3344D89A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E10B53B3CB7909C26F37653C968C68F61B4A4D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "59FCC88A7E871765B3F8A967179C1AA5B900F0E1",
+			"Assets": [
+				"/Game/Character/Shanghai/GirlTest/Texture/CatoonAni/Characters/GirlTest/M_Hair"
+			]
+		},
+		{
+			"ShaderMapHash": "2E5233EB44CD50363547FD2614467900ED305470",
+			"Assets": [
+				"/Game/Character/Shanghai/GirlTest/Texture/CatoonAni/Characters/GirlTest/M_body"
+			]
+		},
+		{
+			"ShaderMapHash": "F0A3EE9A2945DF32C7CA84B1850DAF30DDF24568",
+			"Assets": [
+				"/Game/Character/Shanghai/GirlTest/Texture/CatoonAni/Characters/GirlTest/M_Blackleather"
+			]
+		},
+		{
+			"ShaderMapHash": "9760DA695D40218E7B38D898DE68E77A1FE55086",
+			"Assets": [
+				"/Game/Character/Shanghai/GirlTest/Texture/CatoonAni/Characters/GirlTest/M_silver"
+			]
+		},
+		{
+			"ShaderMapHash": "8A80DA991BC25A08E387D5D669D83E6B794B5E69",
+			"Assets": [
+				"/Game/Character/Shanghai/GirlTest/Texture/CatoonAni/Characters/GirlTest/M_eyelashes"
+			]
+		},
+		{
+			"ShaderMapHash": "46FB0EB0144F14CC80B73A7CB6D72C240C050DA8",
+			"Assets": [
+				"/Game/Character/Shanghai/GirlTest/Texture/CatoonAni/Characters/GirlTest/M_eyeBall"
+			]
+		},
+		{
+			"ShaderMapHash": "4E1A17539960BF48FA4BEDCB2F24229E9214789C",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_Teeth",
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/M_Teeth"
+			]
+		},
+		{
+			"ShaderMapHash": "DBF55888D82DF0AFA4A12EA631C1404D81CFBF84",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_LacrimalFluid"
+			]
+		},
+		{
+			"ShaderMapHash": "66F83BB7B1024D0FCA5F003EFA55195D264E2348",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_EyeRefractive",
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/M_EyeRefractive",
+				"/Game/Character/Chr00/Dancer_01/MAT/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "AF66988C9BFBA219284A843E9761688B8CA7B444",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_EyeRefractive",
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/M_EyeRefractive",
+				"/Game/Character/Chr00/Dancer_01/MAT/M_EyeRefractive"
+			]
+		},
+		{
+			"ShaderMapHash": "7E86B209D1A47BE109BB1293C51E7F2B34694F8C",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_EyeOcclusion",
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/M_EyeOcclusion",
+				"/Game/Character/Chr00/Dancer_01/MAT/M_EyeOcclusion"
+			]
+		},
+		{
+			"ShaderMapHash": "C1B45CBD3C58F7DFE4F4E94DFDE877C4B8314EFD",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_Eyelash"
+			]
+		},
+		{
+			"ShaderMapHash": "4D06938E95FDFE030E987ABD5D41440417B7C631",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_Eyelash"
+			]
+		},
+		{
+			"ShaderMapHash": "2D878E357FC40C995CBAC4E3FE67304E8BC2C3BE",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_Clothes"
+			]
+		},
+		{
+			"ShaderMapHash": "28EC42C38AE261847FE23EF0CE56ED9A513232B1",
+			"Assets": [
+				"/Game/Character/Rapper_01/Shoes/Shoes_01/Textures/Rapper_Shoes_01",
+				"/Game/Character/Rapper_01/Clothes/Clothes_02/Rapper_ClothesA_02",
+				"/Game/Character/Rapper_01/Clothes/Clothes_01/Textures/Rapper_ClothesB_01"
+			]
+		},
+		{
+			"ShaderMapHash": "8603BEF8F1CFF1E932C1DC49875F2429BC6FD487",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_hiar",
+				"/Game/Character/Chr01/Yaoyao_02/Materials/MA_HairSheet",
+				"/Game/Character/Chr00/Dancer_01/MAT/Dancerhiar"
+			]
+		},
+		{
+			"ShaderMapHash": "34819225DB0978A8EBDA3E8655C62200BF591D1B",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_hiar",
+				"/Game/Character/Chr01/Yaoyao_02/Materials/MA_HairSheet",
+				"/Game/Character/Chr00/Dancer_01/MAT/Dancerhiar"
+			]
+		},
+		{
+			"ShaderMapHash": "A8C47883CE87ED1857571516231C8DEF7AAC8934",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_Head"
+			]
+		},
+		{
+			"ShaderMapHash": "2E018C99271C120C6F562C0CBB8538329532F975",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_BodySkin"
+			]
+		},
+		{
+			"ShaderMapHash": "03DC729907153806232C7680E51E46F8CC69774F",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_Nails"
+			]
+		},
+		{
+			"ShaderMapHash": "D9C7651E8274BF12A44DAB7919AFE95E2E0CE219",
+			"Assets": [
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/MH_yifuMat"
+			]
+		},
+		{
+			"ShaderMapHash": "A8C076C94A4078634CB0DCD16135DD1172C6DDBB",
+			"Assets": [
+				"/Game/Character/Chr01/Yaoyao_02/Materials/Yaoyao_Clothes02_LOD2",
+				"/Game/Character/Chr01/Yaoyao_02/Materials/Yaoyao_Clothes02_LOD1",
+				"/Game/Character/Chr01/Yaoyao_02/Materials/Yaoyao_Clothes02",
+				"/Game/Character/Chr01/Yaoyao_02/Materials/Yaoyao_Skirt02"
+			]
+		},
+		{
+			"ShaderMapHash": "84E870612DB08299749A2CF79443BE444D1AD73C",
+			"Assets": [
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/M_shoes"
+			]
+		},
+		{
+			"ShaderMapHash": "9A1B2410C6E5AEC8A30B404F51B6977A36D6E673",
+			"Assets": [
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/WM_Head"
+			]
+		},
+		{
+			"ShaderMapHash": "4E0731D18A1435640C31B49DEC369E8146D0B45D",
+			"Assets": [
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/M_LacrimalFluid",
+				"/Game/Character/Chr00/Dancer_01/MAT/M_LacrimalFluid"
+			]
+		},
+		{
+			"ShaderMapHash": "7328A9603E6C0E2A6A17EF373AB38015389C66D4",
+			"Assets": [
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/M_Eyelashes_Cards"
+			]
+		},
+		{
+			"ShaderMapHash": "DC7F61438B52C78EAF49036F08E7D65E2C015C94",
+			"Assets": [
+				"/Game/Character/Chr01/Yaoyao_02/Materials/M/M_BodySkin_2",
+				"/Game/Character/Common/Materials/M_BodySkin_2"
+			]
+		},
+		{
+			"ShaderMapHash": "164BB454ABBE3FFAEB7F9F423C5EE56B71F2CFB1",
+			"Assets": [
+				"/Game/Character/Chr00/Dancer_01/MAT/MH_yifuMat"
+			]
+		},
+		{
+			"ShaderMapHash": "F9EC02D94C80D209C7AA09FF2872E7F17D4A455F",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_shoes"
+			]
+		},
+		{
+			"ShaderMapHash": "21A8B033ECD6BFFBDB1806859CAC1473B7DFA228",
+			"Assets": [
+				"/Game/Character/Chr00/Dancer_01/MAT/dancer_Hair_Inst2"
+			]
+		},
+		{
+			"ShaderMapHash": "EE35A8A59752E858F6D8EE9ACFC66F240686FFAD",
+			"Assets": [
+				"/Game/Character/Chr00/Dancer_01/MAT/dancer_Hair_Inst2"
+			]
+		},
+		{
+			"ShaderMapHash": "FEC871D6F447952490FD46DEE6A76B01C42C85A6",
+			"Assets": [
+				"/Game/Character/Chr00/Dancer_01/MAT/Dacner_ClothesA1"
+			]
+		},
+		{
+			"ShaderMapHash": "94F942FF182D90AAE4506F8E0C5882038C6BDDA5",
+			"Assets": [
+				"/Game/Character/Chr00/Dancer_01/MAT/M_Eyelashes_Cards"
+			]
+		},
+		{
+			"ShaderMapHash": "811E1DFB19AE83F40132CCED9C01AA811D90823B",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/CowboyBootsA/M_CowboyBootsA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "DA025A0ACBC5362C802E027A05BA1A343EDD8AC3",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsDenimC/M_PantsDenimC_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B547F219C5DA3AC33E6C25324D86CEEC966916DE",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/BikerJacketA/M_BikerJacketA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BC9458F101515A9BC0036078150860785935E6C4",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/M_SkinBody_Master_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyLF/M_SkinBody_Master_LF_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A625078D9D04F241D4E73725B1B1AAD3D2DA9169",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairB/M_HairB_01",
+				"/Game/SubcultureGirl/Materials/HairF/M_HairF_02",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/KnitCapA/M_KnitCapHairA_Master_01",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/Baseball_Cap_Hair/M_CGirl_HairHatA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "1FFB4195D01295CFD202D623D07B29E69325E367",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/GloveFingerlessA/M_GloveFingerlessA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "780D1743D5AEE13986F73A44356FFF882490D505",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/M_SkinHead_Master_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/MaterialInstances/MI_SkinHead_Red_A",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRF/M_SkinHead_Master_RF_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRF/MaterialInstance/MI_SkinHead_RF_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRG/M_SkinHead_Master_RG_01"
+			]
+		},
+		{
+			"ShaderMapHash": "2D31CDA0D402FD076FF8BFCC5A3D6F011C7512A4",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/M_EyeLashes_Master",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRF/M_EyeLashes_RF_Master",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRG/M_EyeLashes_RG_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "7D6A8BD3249F6254772ECF47EEC35C2CE7629067",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/EyeBall/M_EyeBall_Master_01",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_03",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_11",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_09",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_05",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_10"
+			]
+		},
+		{
+			"ShaderMapHash": "2B30A1A1B25D24B3775E96462CE4865F36365819",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLong/M_SocksLongThin_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "57D0F68BA676CC4E1D70CB781B9757513695C1ED",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HeavyBootsB/M_HeavyBootsB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B4FF81BF29DBAFCD37CF1C159057FD94BE8B34D2",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/GothDressA/M_GothDressA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9C85C4960D93218100F0395174747CA956EFAF21",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyLF/M_SkinHead_Master_LF_01"
+			]
+		},
+		{
+			"ShaderMapHash": "732925542D5CD26B268EEF1CC8200BC6186BBACB",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairF/M_HairF_01"
+			]
+		},
+		{
+			"ShaderMapHash": "526E03C7708A0E808ECA0779C2BB2336E4AD8D13",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Accessories/Collar_BracerA/M_Collar_BracerA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9BB91907E3D3180B6ED139310B991A677D71AEB5",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SneakersB/M_SneakersB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C9D1C25F7B02C5EBDBCA2FFCA59D7D21D49A46CF",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/M_HippieDressA_Master_01",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_04"
+			]
+		},
+		{
+			"ShaderMapHash": "2EC4A35AB0B842A62072D4E93239952A0FC43307",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_03",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_05",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_06",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E7D761548EF0FF9C524327AA1FE59A1256B97847",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsLeatherA/M_PantsLeatherA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "8AF5FDE0B9711B5293E2BDD5BABC27500892A29D",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairC/M_HairC_01",
+				"/Game/SubcultureGirl/Materials/HairI/M_HairI_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E3703199943FEC86FCE859B47CE27BE9EF85372B",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/M_TShirtB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "2C3FF6994DA76C7227090D3F329C02B56FD51082",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SneakersA/M_CGirl_SneakersA_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "38A18D995012942013ED51465CB7EFB725D0850F",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/M_CGirl_TShirtA_Master_01",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_10",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_01",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_07"
+			]
+		},
+		{
+			"ShaderMapHash": "BD36FE586331EA8C49D5253672B214964E51F1BC",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLongB/M_SocksThinLongB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A7F4B6BDE6853298DE9B3FA43BD9611A7D774D88",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniB/M_Skirt_MiniB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BD9E35F677B74F0D93739BFED3EC6F91BB817BAF",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniB/MaterialInstance/MI_Skirt_MiniB_02",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniB/MaterialInstance/MI_Skirt_MiniB_05",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniB/MaterialInstance/MI_Skirt_MiniB_03"
+			]
+		},
+		{
+			"ShaderMapHash": "583160560A398C16CC41DA7C6D7A21E0A044DE57",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLongB/MaterialInstance/M_SocksThinLongB_01"
+			]
+		},
+		{
+			"ShaderMapHash": "4A6ADE0C07ECDAD39D25B15D3B22EFA7D74BEC90",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HeavyBootsA/M_HeavyBootsA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BF1A08FAE69CC2A72D01E1B4B6EDCDE7575D5AF4",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_07",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_09"
+			]
+		},
+		{
+			"ShaderMapHash": "82D6DF603C1F1431304D487606C2331E3CEB7C22",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/M_TShirtB_Master_PNT_01"
+			]
+		},
+		{
+			"ShaderMapHash": "30C28C37A19A8E2947989788105CBFCC6D92F1E5",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_02",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_10",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_06",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_08",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_09",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_01",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_04",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_05",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_07"
+			]
+		},
+		{
+			"ShaderMapHash": "26DF2DA5B654A27FD136250AF5644FFDAA9858B5",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/ShoesA/M_CGirl_SnoesA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "30A976FBF78BC07F202AF9935202517C10A4DA71",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLongB/MaterialInstance/M_SocksThinLongB_02",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLongB/MaterialInstance/M_SocksThinLongB_05"
+			]
+		},
+		{
+			"ShaderMapHash": "335B06C0BC9C1BD0F4139D601ECCF7CAE7B56C6B",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressB/M_HippieDressB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5BD32C6B876EF56538D476DEF1421CB6DDD31749",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressB/MaterialInstance/MI_HippieDressB_01",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressB/MaterialInstance/MI_HippieDressB_03"
+			]
+		},
+		{
+			"ShaderMapHash": "6ED0502C83A71A9D345AAF7F2BF1463288F93CD2",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLong/MaterialInstance/MI_SocksLongThin_08"
+			]
+		},
+		{
+			"ShaderMapHash": "2AFE48A526CA173CE5F3BD2CB3535191DA042D19",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairG/M_HairG_01",
+				"/Game/SubcultureGirl/Materials/HairH/M_HairH_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7D39725EFB956AB276932FFFC3A6B3B99C213E34",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/Baseball_Cap_Bald/M_Baseball_Cap_Bald_Master_01",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/Baseball_Cap_Hair/M_Baseball_Cap_Hair_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "269BBAD3C1EFE644216F450DBC41476377182706",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/M_CGirl_SkirtMini_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "29D1165414B7C3DB1B6B279965310CCBAEEC9B63",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Tartan_04",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Tartan_01",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Tartan_06"
+			]
+		},
+		{
+			"ShaderMapHash": "CB4359B02D6060E45C22F0838ED654716078EA5A",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/KnitCapA/M_KnitCapA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "FB4C4A9FC1AC48B6A9D2A2FC6747DB15AC2B0728",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/M_CargoPantsA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "6222FADE7921196DB7B4BF2E9FF920E41F64969C",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/MaterialInstance/MI_CargoPantsA_05",
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/MaterialInstance/MI_CargoPantsA_03",
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/MaterialInstance/MI_CargoPantsA_06",
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/MaterialInstance/MI_CargoPantsA_01"
+			]
+		},
+		{
+			"ShaderMapHash": "76919AEEA809C3ECBECEEAC18C4E78BE2587236E",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Dots_03",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_09"
+			]
+		},
+		{
+			"ShaderMapHash": "AA8C0CF5FE1A9B27A5D605904D24AA34A5183B73",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/BandanaA/M_BandanaA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9C2C5FFF7FE622ACB04C53E1CA586471A7FB2BF8",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/BandanaA/MaterialInstance/MI_BandanaA_04",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/BandanaA/MaterialInstance/MI_BandanaA_02",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/BandanaA/MaterialInstance/MI_BandanaA_01"
+			]
+		},
+		{
+			"ShaderMapHash": "ECD4BD26C1543E0FBED29DAF96DE0DCEAC684C19",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinShort/M_SocksShortThin_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9D972ACD25D3C5D928BC2FF81CA1A65F8A406442",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinShort/MaterialInstance/MI_SocksShortThin_09"
+			]
+		},
+		{
+			"ShaderMapHash": "1B52F6B0AFEF95459F19255456E7EB6A8159EC9D",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/Jacket_Denim/M_CGirl_JacketDenim_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "6AEC453DE66E2BCB9E2EAAB56D6093D20FB88CF3",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsDenimC/MaterialInstance/MI_PantsDenimC_07"
+			]
+		},
+		{
+			"ShaderMapHash": "7C527E725EB21D7C8011FC3247B5CA72E563F941",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairA/M_HairA_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9CA187846AAA018E9A19C48892421AE0AC2EC2EE",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/Sandals/M_CGirl_Sandals_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C764DF6268DF6D8AD3028F935752B8C23938FAA6",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinShort/MaterialInstance/MI_SocksShortThin_03"
+			]
+		},
+		{
+			"ShaderMapHash": "CF780D8A5296B0447B7BE50A07110BDA822F70A7",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/GlassesRoundShapeA/M_SunglassesVisorA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5440FB1470A322D933AB92CAA78F9DBC0BBD63CA",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/GlassesRoundShapeA/M_GlassesRoundShapeA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "8264B789CBBB12691982D5BE2C001FEE871089E2",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/Pants_Denim/M_CGirl_PantsDenim_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "844D18F2DAEAE424F191CC8D3866CF90B8D42017",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsFlareA/M_PantsFlareA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "CB8081CFB371AA223391AAFF468FDEB2BBABEBFE",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsDenimB/M_PantsDenimB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9B4BDAC6101781B0AE003931475A3D62F5FB2CA9",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/TEXTURE/glass_01/glass_01"
+			]
+		},
+		{
+			"ShaderMapHash": "370F62941459DC3C2F269968D480CDFBA67EE052",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/MD/dimian"
+			]
+		},
+		{
+			"ShaderMapHash": "D2DA8BCA93E384AE4C179AA5295E145EECDA77CD",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "0812BF19D3C588EA9949325FB75A3F3E0B0B1C22",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/Hologram/M_HologramBasicGlitch"
+			]
+		},
+		{
+			"ShaderMapHash": "5217E4138D4B49783477495CDA2AA375E6F6A5BB",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/Countryside/Materials/Legacy/materials/Tree_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "CA1F174102B6A5D1E63CCE1D24D6DCF1AF19BD37",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/Countryside/Materials/Legacy/materials/barkMaple"
+			]
+		},
+		{
+			"ShaderMapHash": "95A9CDCBD375061A923B80C07F9CD88AE93B2B27",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/Countryside/Materials/-Billboard_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5465764FDCA8609A2561DC3425BDBDDF58BD25E9",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/Countryside/Materials/-Leaf_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AF9023D58099E9CB3182CC415D443829E651E033",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/Countryside/Materials/-Bark_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D8E64DA45773DFB03FDBC8FE1264610BC7F8AC74",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/Countryside/Materials/TreeCap_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "383391AF18D91841F17FC93A6BBD8C25328DE5B7",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/SpeedTree/AmericanBeech_Fall_Low_Meshes_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C4151AF3D07C40A143014F551D7594A085B0EEB3",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/SpeedTree/AmericanBeech_Fall_Low_Fronds_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "AD68874B9A0776D808EA14835CBA71F384553BF1",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/SpeedTree/AmericanBeech_Fall_Low_FacingLeaves_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "95FD20FEA5C8782222BBC63C06EECFC0B4C147D0",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/SpeedTree/AmericanBeech_Fall_Low_Branches_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5E657E6C54338611BCCA1E56253175E720C4FCD1",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Tree/Material/SpeedTree/AmericanBeech_Fall_Low_Branches_2_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "35375FE066ED10D8A304A838ECF338649C439640",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/A_L/Materials/LUT/单色移动X"
+			]
+		},
+		{
+			"ShaderMapHash": "CDFB239D70FB7EED12A6D46AA307673ABDD181B0",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/A_L/Materials/LUT/单色移动Y"
+			]
+		},
+		{
+			"ShaderMapHash": "CBE301711AD87C1883D8DA274BF50B47A7D3BB7F",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/A_L/Materials/LUT/单色移动Xy"
+			]
+		},
+		{
+			"ShaderMapHash": "C2807639E31A11D4382A89DAA77B793E41B946C3",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/HoloDisplay/Sources/Material/Hologram/M_HologramVerticalLine"
+			]
+		},
+		{
+			"ShaderMapHash": "990B2CEA8DE821FC23AA16620495B05729BDC533",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/Hologram/M_HologramVerticalLine"
+			]
+		},
+		{
+			"ShaderMapHash": "ABEB647A5817D3401E21790D737BFEE9751F7D49",
+			"Assets": [
+				"/Game/Character/Common/Materials/M_Mater"
+			]
+		},
+		{
+			"ShaderMapHash": "5A44AD69AB141993B4F052499E2AC7C7D274396A",
+			"Assets": [
+				"/Game/Character/Common/Materials/M__Leg"
+			]
+		},
+		{
+			"ShaderMapHash": "B5E1A0D20E92CF01656C6D671B86D6FF05CF594E",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/ZP/M_StatueGlass"
+			]
+		},
+		{
+			"ShaderMapHash": "B29FEAFD665E520ECC0AC6369424FCB970EB8134",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/ZCT/Bq01"
+			]
+		},
+		{
+			"ShaderMapHash": "A8D7EE38A59C84A7E1CE21C10C6C37EF9BA29BE1",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYS/GZQYS02"
+			]
+		},
+		{
+			"ShaderMapHash": "4E5ADB07B5A6735EE3DD6775F885BDB9C306D8B3",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYS/13_-_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "D525064F1320987D2545370594C8A2DA8661AC16",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYFST/fashetai"
+			]
+		},
+		{
+			"ShaderMapHash": "51F464176A5B41C44E07C57EF9CCF7ABA66E6EA4",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYA/guangquan1"
+			]
+		},
+		{
+			"ShaderMapHash": "411CEECB066CCB803A9D6A1B51E6DF92D8ACF154",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYA/Aquyu"
+			]
+		},
+		{
+			"ShaderMapHash": "4E65D1B2A7BA1B352030C004ED38BF3A12BE3016",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYA/root_all"
+			]
+		},
+		{
+			"ShaderMapHash": "D1FB79BF95CD6F83F2B5F28CDEF04A78D1B6C67E",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/TEXTURE/zuoyi_02_xiugai/UE4_T"
+			]
+		},
+		{
+			"ShaderMapHash": "9283126A89B38EBDDC8FA202067B3FD8B9AEA382",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYB/bq02"
+			]
+		},
+		{
+			"ShaderMapHash": "1260E38965141B0BA0338A43CDC498BC4DF72382",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYA/root_all1"
+			]
+		},
+		{
+			"ShaderMapHash": "449E1E33DA24BE2C01CB498D8235F0DA6749D0C6",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/Movie/M_Mangofans"
+			]
+		},
+		{
+			"ShaderMapHash": "6CD83EB3846929D527D77BADF23726C176C46993",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_OCL",
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA"
+			]
+		},
+		{
+			"ShaderMapHash": "6AC8E28CA6438FEE334FB4F2ECE72ABDD50B403C",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_OCL"
+			]
+		},
+		{
+			"ShaderMapHash": "30510FCB1FEB9D269A668677160EFAC4A836A75F",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_OCL"
+			]
+		},
+		{
+			"ShaderMapHash": "0E1D6497FFA494C914DDA6F657875A72F1A7F348",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NDC_NA"
+			]
+		},
+		{
+			"ShaderMapHash": "F04F6E626097C640885E7E1DCA24F55EEA25B1A0",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NDC_NA"
+			]
+		},
+		{
+			"ShaderMapHash": "CD64B3AC645D063493665487E7AEE57B53D45B30",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NDC"
+			]
+		},
+		{
+			"ShaderMapHash": "57B65067C14649335339E10F2AA20ACF31B799EE",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NDC"
+			]
+		},
+		{
+			"ShaderMapHash": "3F11ABC09CEDDC7ABCF905BB3A550F32FA73E24C",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NA_OCL",
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NA"
+			]
+		},
+		{
+			"ShaderMapHash": "3B76BAADC3ADA57E8250D344CA32BFFF92C45DE5",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NA_OCL"
+			]
+		},
+		{
+			"ShaderMapHash": "19939E14117FD8EDCF0BDC8A34953498D4600933",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NA_OCL"
+			]
+		},
+		{
+			"ShaderMapHash": "69D89ADCC3CCB41AB1AF7E7D10330B3D76A78887",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NA"
+			]
+		},
+		{
+			"ShaderMapHash": "DF14D8D40C6CB06F3C1776D92A9342DB25EA906F",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA_NA"
+			]
+		},
+		{
+			"ShaderMapHash": "8C3170BDC8B0CBF73DEDC32D412FBA530C15AC59",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA"
+			]
+		},
+		{
+			"ShaderMapHash": "850762EBF2AF7642E7A04AA4A6EAF0328BA4C29C",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_SA"
+			]
+		},
+		{
+			"ShaderMapHash": "58750119B8AF3FE978A8E37D2A1C0C123C80520A",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_onecloudlayer",
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_default"
+			]
+		},
+		{
+			"ShaderMapHash": "23035A43C41ABB9F015F5D501518CD4D54927A7E",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_onecloudlayer"
+			]
+		},
+		{
+			"ShaderMapHash": "C642F4A6999274C6CE78AA7CA41BAFFBDCE80100",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_onecloudlayer"
+			]
+		},
+		{
+			"ShaderMapHash": "85C494C1CCBCEF1D972F8F2C3F8DFE97495DD2D3",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_no_auroras_onecloudlayer",
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_no_auroras"
+			]
+		},
+		{
+			"ShaderMapHash": "08B68CB0603B15CCB517D4C870A9D1A7483577F9",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_no_auroras_onecloudlayer"
+			]
+		},
+		{
+			"ShaderMapHash": "63569358E5432A47C13009785CB7083D83817659",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_no_auroras_onecloudlayer"
+			]
+		},
+		{
+			"ShaderMapHash": "9200344E908B7E244BEF5820899FF1A88A3B9CC0",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_no_auroras"
+			]
+		},
+		{
+			"ShaderMapHash": "EA37DAC6359B198726D323AB272670EFDEAF326B",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_no_auroras"
+			]
+		},
+		{
+			"ShaderMapHash": "34539C944501A9B69B62F6C839CE0AE08C85CD36",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Ultra_Dynamic_Sky_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "419608DB4DC3ECBA2155C43038DF7550492B84FE",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Ultra_Dynamic_Sky_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "8CB786ED8725E1EB2630BA0A9B92A65AE8FDB5C3",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_default"
+			]
+		},
+		{
+			"ShaderMapHash": "BDB81C15C49B97FAA7790F2C43A75DF1DBF5826B",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Material_Instances/Ultra_Dynamic_Sky_Mat_default"
+			]
+		},
+		{
+			"ShaderMapHash": "FDE5EE20FF4A70891D577B32435235D282D30E59",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Volumetric_Cloud_Shadows"
+			]
+		},
+		{
+			"ShaderMapHash": "0248BA971860E969220F743959378AF4E15ADBA1",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Volumetric_Cloud_Shadows"
+			]
+		},
+		{
+			"ShaderMapHash": "D8CB35E4E0DDF28E3E1EC30A2785723E8A2C7F60",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Static_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "56F8E237841F11056931F868CA7E3779FA6900F7",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Static_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "14DC3C34F4E06D6760E07F70B4C3756A8EC70D1B",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Cloud_Shadows"
+			]
+		},
+		{
+			"ShaderMapHash": "5AB939DD04240048278EEDCE85DE18FBDADA0DA5",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Cloud_Shadows"
+			]
+		},
+		{
+			"ShaderMapHash": "36A339B91DFDE666BABA6E0D8A4050CD0F1DE184",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Weather/LightningBolt_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "ACDDDB9C842330A6882DDDB0A7998A27EE850DE2",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Weather/Lightning_Ball_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "C9BB8BC1AE119DCDAE5AC01EEB94429EA98F42AE",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Weather/Splash_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "70620AE8306BB80D458CD6A0EA6FB8202A4F6016",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Weather/Splash_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "5114F0E0AAA661D16212E0B274177AEE5C28D83E",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Weather/RainSnow_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "F8D9271C496763F3A22C802573280B4130F27F84",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Weather/RainSnow_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "E13B5C49DE14A2729E0355D1B5CDE01BCBBAB8C9",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Weather/Fog_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "4B255D0413A64F35C7AD629DC35AAD51AE0E4061",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Weather/LightningFlare_ParticleMat"
+			]
+		},
+		{
+			"ShaderMapHash": "9F5704D2FE3B3ECFFFECD7B70591F8C18EABB293",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Volumetric_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "A0B9733EFAE59DACD6BB8E9CCA0F751362B0C087",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Volumetric_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "7BD78B550E15053CB4967A65AD894AF536C8EE43",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Volumetric_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "D4301C9D5A4CE2164C32AFA3FEF516ACE978C01A",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Volumetric_Clouds"
+			]
+		},
+		{
+			"ShaderMapHash": "B5CCE041B6C6B358F43E6CB48603E47681B2D74A",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Volumetric_Aurora"
+			]
+		},
+		{
+			"ShaderMapHash": "E66F3F5A4029711FD81CE5EC5FFA3E54BB6248F6",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Inside_Clouds_Fog_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "52AD10795F4F411F64ED5A38DA87E0943F7F2B9D",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Inside_Clouds_Fog_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "EE2634FD99A805512B34B806B3ABAC27B3EBBD51",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Inside_Clouds_Fog_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "712C289EF3E6BAC20568A63D21E45E9B23ED2324",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Lvxl/UltraDynamicSky/Materials/Inside_Clouds_Fog_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "B7B1C7389DA50AC80734057D719D613A8B7BD527",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Paihangbang/Tuhao/M_Tuhao_1"
+			]
+		},
+		{
+			"ShaderMapHash": "8278BB2BE664F0A35A766075C5404B0AE6186044",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/Materials/Stage/M_Base_Color1",
+				"/Game/Environment/Map/MangoFans/YZJ/Model/Chair/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "B0502C88AC41CC45791AE6D29E2EEEB66816C337",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_HoloSphere_03"
+			]
+		},
+		{
+			"ShaderMapHash": "3D84E2984DD59D7236A64B46523E28B98D1B49CE",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_HoloLineSphere"
+			]
+		},
+		{
+			"ShaderMapHash": "2E84A6C59DFE32D052188CD13FDEB11A72B49109",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_HoloEdge"
+			]
+		},
+		{
+			"ShaderMapHash": "DB5B56000028FAB8585361BEFC179444279A83F4",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Material_Inst/MI_HoloEdge_01"
+			]
+		},
+		{
+			"ShaderMapHash": "61475C29DBBCFC8A58FDAFF91A61D2D6EEF93352",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_HoloBuilding_02"
+			]
+		},
+		{
+			"ShaderMapHash": "C2BBC5833AAC111F66421378C992AF54690F21B5",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Material_Inst/MI_HoloBuilding_02"
+			]
+		},
+		{
+			"ShaderMapHash": "952DD2A6887FA214B97342A10B7C5936326E7298",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_HoloBuilding_01",
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Material_Inst/MI_HoloBuilding_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F1BD5D7CAE1225BDC3868C72B34481468AEBD7B6",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_HoloSphere_02"
+			]
+		},
+		{
+			"ShaderMapHash": "3403C65BDB9979B6A0CBABB1BD8F946C19F8FBE0",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Material_Inst/MI_Efx_swordFire_B2_Inst2",
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Material_Inst/MI_Efx_swordFire_B2_Inst1"
+			]
+		},
+		{
+			"ShaderMapHash": "FB4004E89ADEADA9898C082CAF17450531CE1ED3",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_Efx_swordFire_B2"
+			]
+		},
+		{
+			"ShaderMapHash": "4F656065DB28380A545A0CBC9DF60B8FD10816C8",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_HoloSphere_01"
+			]
+		},
+		{
+			"ShaderMapHash": "F9A5E067C42485C6BCD2EEA364C6E2CA3515288D",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_HoloCircle"
+			]
+		},
+		{
+			"ShaderMapHash": "BB499230B383DC1D469003AA5773EB05823AFC13",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/CYG/YHY/Materials/M_EdgeRing"
+			]
+		},
+		{
+			"ShaderMapHash": "2EFDDC8E89161CA8C101D24349EC3BE178DBFB0C",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Effects/Materials/Gameplay/M_vehicle_master"
+			]
+		},
+		{
+			"ShaderMapHash": "817C7B3507C6AC1F45095652F91708F236A1A998",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Effects/Materials/Gameplay/M_vehicle_master_vertexcolor"
+			]
+		},
+		{
+			"ShaderMapHash": "395380234036B7CB66EB51FEC33CD231AE08EA1B",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/Materials/Dy_Light/自发光动态"
+			]
+		},
+		{
+			"ShaderMapHash": "E387CC41F06B436F5E20613FEDB160F6AF4C740C",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/Materials/Stage/M_Emissive"
+			]
+		},
+		{
+			"ShaderMapHash": "70C9AED4CDEEAED2074AE4BF288C84FE2DA4DF90",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/Hologram/M_HologramVerticalLineDot"
+			]
+		},
+		{
+			"ShaderMapHash": "E40AF1BF957054922E362765F7C22E46665F8E26",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/Hologram/M_HologramVerticalLineDot_Inst2"
+			]
+		},
+		{
+			"ShaderMapHash": "6E1906BED8CA1C5021B91D94988376A089D42C67",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYS/guangdai"
+			]
+		},
+		{
+			"ShaderMapHash": "F0F255A9616EA27CCC8651DFC533B450B480127B",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYA/guangquan3"
+			]
+		},
+		{
+			"ShaderMapHash": "9052EE0926948DCC0FEFF1E8711A4FBF1D53052E",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/FBX/GZQYA/guangquan2"
+			]
+		},
+		{
+			"ShaderMapHash": "9676CFF701891E47397AB22ACE24967AADFF813B",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4B16F45161D99E5AA74853340239CC1544F78C12",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/Crystals/Material/M_Crystal_3"
+			]
+		},
+		{
+			"ShaderMapHash": "67C53E66E85F03201CCE943C02C0871CCE4F769C",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/Hologram/M_HologramGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "7409B02B5442B26B3E36F6F5E92D9FB634C292AA",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/M_Center"
+			]
+		},
+		{
+			"ShaderMapHash": "D09F1767C18A2FA597C5F3B9885D32C7693D543B",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/M_Cap"
+			]
+		},
+		{
+			"ShaderMapHash": "06E095EA9536936B78E6F99B13B7412432FCA91E",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/M_Body2",
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/M_Body1"
+			]
+		},
+		{
+			"ShaderMapHash": "9ECD2E693F21F8D45D603BE5207AF038BF073A52",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Particle/M_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "973CB9FEBE4AEDA744BC2CE6374661DA9790C57A",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/Hologram/M_HologramBasic"
+			]
+		},
+		{
+			"ShaderMapHash": "ECD4EFC6128576733D98B9A6AA044E1513D3B088",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/YZJ/ALL_HOLOGRAM/Sources/Material/Hologram/M_Dissolve"
+			]
+		},
+		{
+			"ShaderMapHash": "9833508CE72200F399E380C28F082F5286504018",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/CrowdSystem/M_CrowdMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "8470898331E384BEF8A561AD90116DCB3A52A34F",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/Environment/Blueprints/Lightshaft/M_GodRay_Inst_Animated"
+			]
+		},
+		{
+			"ShaderMapHash": "DCAFADBF03B771B611566B9D1394A46E8F657B22",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/Environment/Blueprints/Lightshaft/M_GodRay"
+			]
+		},
+		{
+			"ShaderMapHash": "AD2A86CF903B53E8CFD7E3922F9B77E216B5A5C7",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/Scene/Environment/Blueprints/FogSheet/Assets/M_FogSheet_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "61BF66B9B7504E59B4F4234E28072871F5446DAC",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A8DD7467B7365AAA4CDBC1EFB01307D14482966E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6C0AA96D268141D6741790078D439FABC3D5BE76",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/ModularConcertStage/Materials/Masters/MM_RMA"
+			]
+		},
+		{
+			"ShaderMapHash": "3C82B4E89ADEB9B1F58E9DB3CE250F1DEE6E81F2",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/ModularConcertStage/Materials/Masters/MM_Tiled"
+			]
+		},
+		{
+			"ShaderMapHash": "B006E5D1A296C55C5C065DAFEF413E6FF5696896",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/Environment/M_Stars"
+			]
+		},
+		{
+			"ShaderMapHash": "F6BF6B05E5FC6D6BE847D0F82511A3BFA9DC5DE4",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/ModularConcertStage/Materials/Masters/MM_Emissive_Light"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE2A61FD92AF002453CDF30E8F4C49D62368470",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/Environment/M_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "14EA693EAA928413F752BAB0A449C613A30939AA",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/Environment/M_APV1_Landscape"
+			]
+		},
+		{
+			"ShaderMapHash": "4090D3A216BA51DE404FFFD3849B02B21B44D993",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/M_APV1_SolidPlant"
+			]
+		},
+		{
+			"ShaderMapHash": "8EABAC00B75558E624476781E5F223ED11798E77",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/Trees/M_Alien_Tree_A_Top"
+			]
+		},
+		{
+			"ShaderMapHash": "0A160485E917094C13BABD4B0AC14E15C348CD02",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/Grass/M_Alien_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "B03A5DC7F938248F301C85AC789ABA8C8BEDE8D9",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/Grass/MI_Alien_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "3C8B39A4E603CBC0BF21EBC5451DA70022E19FA0",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/M_APV1_WindPlant"
+			]
+		},
+		{
+			"ShaderMapHash": "B0E2E83A3E8413261820BBD961F2E99D546B7E62",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/M_APV1_WindPlantBaked"
+			]
+		},
+		{
+			"ShaderMapHash": "C33B6B469F0ECF44DC539DC7D5353889383F6818",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/Rock/M_AlienRock"
+			]
+		},
+		{
+			"ShaderMapHash": "61F5767204286D4AF722D5CC2E75A8A72AC4A02B",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Materials/M_APV1_Leaf"
+			]
+		},
+		{
+			"ShaderMapHash": "C3B526A66892CB28022D56806C062CB64DDC6FBC",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/ModularConcertStage/Materials/Masters/MM_WorldAligned"
+			]
+		},
+		{
+			"ShaderMapHash": "4A685B3547547AC89C28735134C3AFD5264523C6",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Maps/AlienWorld_WX"
+			]
+		},
+		{
+			"ShaderMapHash": "6D5FD2FAF1EC59B99008107140DCB3CB5D1C4237",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Maps/AlienWorld_WX"
+			]
+		},
+		{
+			"ShaderMapHash": "CDC7A818A72C86F254CA22A1E7812B593C094C7A",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Maps/AlienWorld_WX"
+			]
+		},
+		{
+			"ShaderMapHash": "557D3E42C3A06C0533675B587EF4A5C3D32E8B41",
+			"Assets": [
+				"/Game/Environment/Map/AlienWorld_WX/Maps/AlienWorld_WX"
+			]
+		},
+		{
+			"ShaderMapHash": "A5222FD6CF80D83820E7E487AE956AF791AD6B0E",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "62BDF49C1BCE13395EB48C586C04A6A002B52900",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/Foliages/Mat/T_Flower"
+			]
+		},
+		{
+			"ShaderMapHash": "EA025C708AAD90A99E86E374302B6FEEDAE3BC51",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/ZB/Blend/M_Leader"
+			]
+		},
+		{
+			"ShaderMapHash": "BBAE0DBCF102DD8CDE32C0C6007AC6184EA9EABD",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/fx/NS_LastSpark"
+			]
+		},
+		{
+			"ShaderMapHash": "EFB01F0E86C889FEC703F1C5F729DE114CE017B8",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/Foliages/Mat/M_StandardMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "169D82C76709D1A2FEEBAEAEAAEB0CA10C5DEB45",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/Foliages/Mat/M_树"
+			]
+		},
+		{
+			"ShaderMapHash": "40C991F904869BEADFEF93D75F90424E72483675",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/Foliages/Mat/M_树_B"
+			]
+		},
+		{
+			"ShaderMapHash": "B86C38FFC92185AE912FBF6A9A28CAD7965D3BB8",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/ZB/phong5"
+			]
+		},
+		{
+			"ShaderMapHash": "D3F55A972B5356205C3E3247B1111DBA3BE98309",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/Foliages/Mat/M_Ribbon"
+			]
+		},
+		{
+			"ShaderMapHash": "617F23D9F3F182854E852DC3F27A5DB7446B9953",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/Foliages/Mat/M_Ribbon_LightningBall_02"
+			]
+		},
+		{
+			"ShaderMapHash": "8189C42757617216682056F3C154457FC7AD4A66",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/Foliages/Mat/M_Ribbon_LightningBall_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5CE39C65DB0CD68BC0B1D1D55983397F40063F84",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/Meshs/Foliages/Mat/M_Fog"
+			]
+		},
+		{
+			"ShaderMapHash": "D14BC260A055709A2EC8207F24912FE7E4300B7D",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/fx/NS_FlowerRoad"
+			]
+		},
+		{
+			"ShaderMapHash": "F243004DE5CA5A13CC3F9CEA4E9EA89402BF6530",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/fx/NS_FlowerRoad"
+			]
+		},
+		{
+			"ShaderMapHash": "9BE9D5863F8954B6110D81E7691B1AC9D6D37250",
+			"Assets": [
+				"/Game/Environment/Map/MangoFans/FX/HuaLu/fx/NS_FlowerRoad"
+			]
+		}
+	]
+}

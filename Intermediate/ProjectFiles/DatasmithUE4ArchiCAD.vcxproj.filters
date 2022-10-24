@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithARCHICADExporter\DatsmithUE4ArchiCAD\DatasmithUE4ArchiCAD.Target.cs" />
+    <None Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithARCHICADExporter\DatsmithUE4ArchiCAD\DatasmithUE4ArchiCAD.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{68F03E5C-DF7B-4EDA-975A-39FCD5093787}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithARCHICADExporter\DatsmithUE4ArchiCAD\Private\DatasmithUE4ArchiCAD.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithARCHICADExporter\DatsmithUE4ArchiCAD\Private\DatasmithUE4ArchiCAD.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

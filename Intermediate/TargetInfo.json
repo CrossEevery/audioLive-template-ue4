@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "dediServer",
+			"Path": "F:\\audioLive-template\\dediServer\\Source\\dediServer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "dediServerEditor",
+			"Path": "F:\\audioLive-template\\dediServer\\Source\\dediServerEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "dediServerServer",
+			"Path": "F:\\audioLive-template\\dediServer\\Source\\dediServerServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\UnrealRecoverySvc\UnrealRecoverySvc.Target.cs" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{33BB1876-B012-4B99-A293-288601766B99}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\UE_4.27_source\Engine\Programs\UnrealRecoverySvc\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\UnrealRecoverySvc\UnrealRecoverySvc.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{E8E0B12B-225C-4DCF-A8FB-E19FE0F91450}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\UnrealRecoverySvc\Private\UnrealRecoverySvc.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

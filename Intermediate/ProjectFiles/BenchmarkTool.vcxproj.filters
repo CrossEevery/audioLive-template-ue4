@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\BenchmarkTool\BenchmarkTool.Target.cs" />
+    <None Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\BenchmarkTool\BenchmarkTool.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{5EACB93A-2FB7-4657-B055-134658F76119}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\BenchmarkTool\Private\BenchmarkTool.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\BenchmarkTool\Private\BenchmarkTool.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{C5B148DE-29BF-40F5-9AD2-DFB66865327B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Windows">
+      <UniqueIdentifier>{368B4AA3-AC91-4839-8EC8-A08564AE0ACD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\UE_4.27_source\Engine\Source\Programs\BenchmarkTool\Resources\Windows\BenchmarkTool.ico">
+      <Filter>Resources\Windows</Filter>
+    </None>
+  </ItemGroup>
+</Project>
